@@ -1,0 +1,7 @@
+const Config = {
+	RefreshInterval: 2500,
+	API_KEY: '',
+	API_URL: 'https://bot.fivemmultibot.com',
+};
+
+module.exports = Config;

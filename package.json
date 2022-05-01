@@ -1,0 +1,14 @@
+{
+  "name": "connection-handler",
+  "version": "1.0.0",
+  "description": "A connection handler to the FiveM Multibot API.",
+  "main": "src/index.s",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IamAdren",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.4.1"
+  }
+}
